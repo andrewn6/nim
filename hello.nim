@@ -1,3 +1,3 @@
-var a: "hello world"
+const a: string = "hello world"
 
-echo a 
+echo (a) 
